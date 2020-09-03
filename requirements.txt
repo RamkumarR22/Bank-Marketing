@@ -12,6 +12,6 @@ numpy
 scipy
 sklearn
 pybase64 
-pickle
+joblib
 matplotlib
 seaborn
