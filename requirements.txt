@@ -7,7 +7,6 @@ Werkzeug==0.15.5
 flasgger==0.9.4
 streamlit
 lightgbm
-itertools
 pandas
 numpy 
 scipy
