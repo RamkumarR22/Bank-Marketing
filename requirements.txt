@@ -11,8 +11,7 @@ pandas
 numpy 
 scipy
 sklearn
-base64
-io 
+pybase64 
 pickle
 matplotlib
 seaborn
